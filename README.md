@@ -1,4 +1,4 @@
 The_C
 =====
 
-The C Programming Language Exprecise
+The C Programming Language Exercise
